@@ -35,4 +35,7 @@
 *.out
 *.app
 
+# Images
+*.png
+
 # End of https://www.gitignore.io/api/c++
